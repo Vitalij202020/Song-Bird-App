@@ -1,0 +1,12 @@
+.audio-player {
+  margin: 10px 40px 8px 0;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+}
+
+.audio-player audio {
+  margin-top: 25px;
+  min-width: 100px;
+}
